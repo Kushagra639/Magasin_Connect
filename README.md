@@ -31,13 +31,14 @@
 
 ---
 
-Install dependencies:
+**Install dependencies:**
+Make sure to install the dependencies by running the following code in *powershell* :
 ```bash
 pip install mysql-connector-python bcrypt customtkinter
 ```
 ---
 
-Set up MySQL:
+**Set up MySQL:**
 Make sure you have MySQL Server installed and running.
 Create a database named:
 ```MySQl
@@ -45,7 +46,7 @@ CREATE DATABASE magasin_connect;
 ```
 ---
 
-Update your MySQL username and password in the MagasinConnectGUI.py file
+**Update** your MySQL *username* and *password* in the MagasinConnectGUI.py file
 ```Python
 MagasinConnect = SQL.connect(
     host="localhost",
@@ -62,15 +63,11 @@ python MagasinConnectGUI.py
 ```
 ---
 
-🙋‍♂️ Author - 
-
+## 🙋‍♂️ Author - 
 Kushagra Aggarwal
-
-Student, Class 12
-
-Dr. B. R. Ambedkar SoSE
-
-Delhi Board of School Education (DBSE)
+- Student, Class 12
+- Dr. B. R. Ambedkar SoSE, Plot No. 1, Link Road, Karol Bagh
+- Delhi Board of School Education (DBSE)
 
 This project was built with passion for Computer Science and real-world application.
 
@@ -78,14 +75,16 @@ This project was built with passion for Computer Science and real-world applicat
 
 📄 License :
 
-This project is open for educational use. Contact the author for other uses.
+This project is open for educational use.
+
+For other uses, please contact the author.
 
 ---
 
 📌 Notes :
 
-- Do not name your shop shops (it's a reserved table).
-- Theme path in the code may need to be updated depending on your system.
+- ⚠️ Do not name your shop shops (it's a reserved table).
+- 🎨 Theme path in the code may need to be updated depending on your system.
 
 ---
 
