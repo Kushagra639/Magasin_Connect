@@ -32,50 +32,60 @@
 ---
 
 Install dependencies:
+```bash
 pip install mysql-connector-python bcrypt customtkinter
-
+```
 ---
 
 Set up MySQL:
 Make sure you have MySQL Server installed and running.
 Create a database named:
+```MySQl
 CREATE DATABASE magasin_connect;
-
+```
 ---
 
 Update your MySQL username and password in the MagasinConnectGUI.py file
+```Python
 MagasinConnect = SQL.connect(
     host="localhost",
     user="root",
     password="your_password",
     database="magasin_connect"
 )
-
+```
 ---
 
 Run the app:
+```bash
 python MagasinConnectGUI.py
-
+```
 ---
 
-🙋‍♂️ Author
+🙋‍♂️ Author - 
+
 Kushagra Aggarwal
+
 Student, Class 12
+
 Dr. B. R. Ambedkar SoSE
+
 Delhi Board of School Education (DBSE)
 
 This project was built with passion for Computer Science and real-world application.
 
 ---
 
-📄 License
+📄 License :
+
 This project is open for educational use. Contact the author for other uses.
 
 ---
 
-📌 Notes
-Do not name your shop shops (it's a reserved table).
-Theme path in the code may need to be updated depending on your system.
+📌 Notes :
+
+- Do not name your shop shops (it's a reserved table).
+- Theme path in the code may need to be updated depending on your system.
 
 ---
 
