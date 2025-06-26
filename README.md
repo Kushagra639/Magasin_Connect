@@ -30,22 +30,21 @@
 | `tkinter.messagebox` | Pop-up messages for errors/info                   |
 
 ---
-
-**Install dependencies:**
+## Setup
+### Install dependencies
 Make sure to install the dependencies by running the following code in *powershell* :
 ```bash
 pip install mysql-connector-python bcrypt customtkinter
 ```
----
 
-**Set up MySQL:**
+### Set up MySQL
 Make sure you have MySQL Server installed and running.
 Create a database named:
 ```MySQl
 CREATE DATABASE magasin_connect;
 ```
----
 
+### Make changes in the code
 **Update** your MySQL *username* and *password* in the MagasinConnectGUI.py file
 ```Python
 MagasinConnect = SQL.connect(
@@ -55,9 +54,8 @@ MagasinConnect = SQL.connect(
     database="magasin_connect"
 )
 ```
----
 
-Run the app:
+### Run the app
 ```bash
 python MagasinConnectGUI.py
 ```
