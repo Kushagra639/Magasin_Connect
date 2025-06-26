@@ -10,7 +10,7 @@
 
 ## ✨ Functies
 
-- 🔐 **Veilig inloggen en registreren in de winkel** (met bcrypt-wachtwoordhashing)
+- 🔐 **Veilig inloggen en registreren in de winkel** (met `bcrypt`-wachtwoordhashing)
 - 📦 **Voorraadbeheer** – Artikelen toevoegen, bewerken en bekijken
 - 📊 **Transactieregistratie** – Verkopen/aankopen registreren met realtime voorraadupdates
 - 💰 **Winst-/verliesberekening** – Totaal of tussen twee datums
