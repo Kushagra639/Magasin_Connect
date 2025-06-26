@@ -2,7 +2,7 @@
 |-|-|-|-|-|-|-| 
 # 🛍️ Magasin Connect
 
-**Magasin Connect** ist ein Python-basiertes **Store-Management-System** mit einer eleganten und modernen grafischen Benutzeroberfläche, entwickelt mit CustomTkinter. Es ermöglicht Händlern, ihren Bestand zu verwalten, ihre Kauf- und Verkaufstransaktionen zu erfassen und ihre Gewinne zu verfolgen. Die Daten werden dabei sicher in einer MySQL-Datenbank gespeichert.
+**Magasin Connect** ist ein Python-basiertes **Store-Management-System** mit einer eleganten und modernen grafischen Benutzeroberfläche, entwickelt mit `CustomTkinter`. Es ermöglicht Händlern, ihren Bestand zu verwalten, ihre Kauf- und Verkaufstransaktionen zu erfassen und ihre Gewinne zu verfolgen. Die Daten werden dabei sicher in einer MySQL-Datenbank gespeichert.
 
 > 💡 Entwickelt im Rahmen eines IT-Abschlussprojekts.
 
