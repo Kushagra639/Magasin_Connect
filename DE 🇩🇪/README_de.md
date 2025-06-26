@@ -10,7 +10,7 @@
 
 ## ✨ Funktionen
 
-- 🔐 **Sichere Shop-Anmeldung und -Registrierung** (mit bcrypt-Passwort-Hashing)
+- 🔐 **Sichere Shop-Anmeldung und -Registrierung** (mit `bcrypt`-Passwort-Hashing)
 - 📦 **Lagerverwaltung** – Artikel hinzufügen, bearbeiten und anzeigen
 - 📊 **Transaktionsaufzeichnung** – Erfassung von Verkäufen/Käufen mit Echtzeit-Lageraktualisierungen
 - 💰 **Gewinn-/Verlustberechnung** – Gesamt oder zwischen zwei Daten
