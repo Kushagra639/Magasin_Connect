@@ -46,7 +46,7 @@ CREATE DATABASE magasin_connect;
 ```
 
 ### Realizar cambios en el código
-**Actualizar** tu *usuario* y *contraseña* de MySQL en el archivo MagasinConnectGUI.py
+- **Actualice** su *usuario* y *contraseña* de MySQL en el archivo MagasinConnectGUI.py
 ```Python
 MagasinConnect = SQL.connect(
     host="localhost",
@@ -55,6 +55,11 @@ MagasinConnect = SQL.connect(
     database="magasin_connect"
 )
 ```
+- **Actualiza** la ruta del tema en el archivo MagasinConnectGUI.py a la ruta de tu sistema.
+```Python
+ctk.set_appearance_mode("system") # Establece el modo de apariencia predeterminado del sistema (claro u oscuro según la configuración del sistema).
+ctk.set_default_color_theme("C:/Users/username/Desktop/pastel_theme.json") # Establece el tema de color predeterminado a un tema pastel personalizado (incluido junto con este código). Cambia la ruta del archivo del tema según las preferencias de tu sistema.
+```
 
 ### Ejecutar la aplicación
 ```bash
@@ -62,9 +67,16 @@ python MagasinConnectGUI.py
 ```
 ---
 
+## Código
+Simplemente *Copia* y *Pega* el código en **"VS Code"** o **"Python IDLE"** y ejecútalo después de realizar los cambios anteriores.
+| [Code in English 🇬🇧](/MagasinConnectGUI.py) | [Le Code en Français 🇫🇷](FR%20🇨🇵/MagasinConnectGUI_fr.py) |
+|-|-|
+---
+
+
 ## 🙋‍♂️ Autor - 
 Kushagra Aggarwal
-- Estudiante, 12.º curso
+- Estudiante, 12º curso
 - Dr. B. R. Ambedkar SoSE, Plot No. 1, Link Road, Karol Bagh
 - Delhi Board of School Education (DBSE)
 
