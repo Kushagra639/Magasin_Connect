@@ -70,8 +70,11 @@ python MagasinConnectGUI.py
 
 ## 👨🏻‍💻 De code
 *Kopieer* en *plak* de code in **"VS Code"** of **"Python IDLE"** en voer deze uit nadat u de bovenstaande wijzigingen hebt aangebracht.
-| [Code in English 🇬🇧](/MagasinConnectGUI.py) | [Le Code en Français 🇫🇷](FR%20🇨🇵/MagasinConnectGUI_fr.py) |
+| [Code in English](/MagasinConnectGUI.py) 🇬🇧 | [Le Code en Français](FR%20🇨🇵/MagasinConnectGUI_fr.py) 🇫🇷 |
 |-|-|
+
+[Themabestand](/pastel_theme.json) 🎨
+
 ---
 
 ## 🙋‍♂️ Auteur - 
