@@ -75,7 +75,7 @@ python MagasinConnectGUI.py
 ---
 
 ## 🙋‍♂️ Автор - 
-Кушагра Аггарвал
+Kushagra Aggarwal (Кушагра Аггарвал)
 - Ученик 12-го класса
 - Dr. B. R. Ambedkar SoSE, Plot no. 1, Link Road, Karol Bagh
 - Delhi Board of School Education (DBSE)
