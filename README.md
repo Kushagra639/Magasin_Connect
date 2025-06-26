@@ -70,9 +70,12 @@ python MagasinConnectGUI.py
 
 ## 👨🏻‍💻 Code
 Just *Copy* and *Paste* the code in **"VS Code"** or **"Python IDLE"** and run it after making the above changes.
-[Theme File 🎨](/pastel_theme.json)
-| [Code in English 🇬🇧](/MagasinConnectGUI.py) | [Le Code en Français 🇫🇷](FR%20🇨🇵/MagasinConnectGUI_fr.py) |
+
+| [Code in English](/MagasinConnectGUI.py) 🇬🇧 | [Le Code en Français](FR%20🇨🇵/MagasinConnectGUI_fr.py) 🇫🇷 |
 |-|-|
+
+[Theme File](/pastel_theme.json) 🎨
+
 ---
 
 ## 🙋‍♂️ Author - 
