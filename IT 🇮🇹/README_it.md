@@ -41,7 +41,7 @@ pip install mysql-connector-python bcrypt customtkinter
 
 ### Configura MySQL
 Assicurati che MySQL Server sia installato e in esecuzione. Crea un database denominato:
-```MySQl
+```MySQL
 CREATE DATABASE magasin_connect;
 ```
 
@@ -70,8 +70,11 @@ python MagasinConnectGUI.py
 
 ## 👨🏻‍💻 Il codice
 È sufficiente *copiare* e *incollare* il codice in **"VS Code"** o **"Python IDLE"** ed eseguirlo dopo aver apportato le modifiche sopra indicate.
-| [Code in English 🇬🇧](/MagasinConnectGUI.py) | [Le Code en Français 🇫🇷](FR%20🇨🇵/MagasinConnectGUI_fr.py) |
+| [Code in English](/MagasinConnectGUI.py) 🇬🇧 | [Le Code en Français](FR%20🇨🇵/MagasinConnectGUI_fr.py) 🇫🇷 |
 |-|-|
+
+[Fascicolo del tema](/pastel_theme.json) 🎨
+
 ---
 
 ## 🙋‍♂️ Autore - 
