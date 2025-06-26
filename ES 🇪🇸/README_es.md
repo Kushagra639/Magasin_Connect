@@ -67,7 +67,7 @@ python MagasinConnectGUI.py
 ```
 ---
 
-## Código
+## 👨🏻‍💻 Código
 Simplemente *Copia* y *Pega* el código en **"VS Code"** o **"Python IDLE"** y ejecútalo después de realizar los cambios anteriores.
 | [Code in English 🇬🇧](/MagasinConnectGUI.py) | [Le Code en Français 🇫🇷](FR%20🇨🇵/MagasinConnectGUI_fr.py) |
 |-|-|
