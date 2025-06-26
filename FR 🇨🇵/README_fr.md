@@ -46,7 +46,7 @@ CREATE DATABASE magasin_connect;
 ```
 
 ### Apporter des modifications au code
-**Mettez à jour** votre *nom d'utilisateur* et votre *mot de passe* MySQL dans le fichier MagasinConnectGUI.py
+**Mettez à jour** votre *nom d'utilisateur* et votre *mot de passe* MySQL dans le fichier MagasinConnectGUI_fr.py
 ```Python
 MagasinConnect = SQL.connect(
     host="localhost",
@@ -57,8 +57,20 @@ MagasinConnect = SQL.connect(
 ```
 ### Exécuter l'application
 ```bash
-python MagasinConnectGUI.py
+python MagasinConnectGUI_fr.py
 ```
+
+**Mettez à jour** le chemin du thème dans le fichier MagasinConnectGUI_fr.py vers le chemin de votre système
+```Python
+ctk.set_appearance_mode("system") # Sets the appearance mode to system default (light or dark based on system settings)
+ctk.set_default_color_theme("C:/Users/username/Desktop/pastel_theme.json") # Sets the default color theme to a custom pastel theme (given alongside this code), please change the path to the theme file as per your system
+```
+---
+
+## Le Code
+*Copiez* et *collez* simplement le code dans **« VS Code »** ou **« Python IDLE »** et exécutez-le après avoir effectué les modifications ci-dessus.
+| [Code in English 🇬🇧](/MagasinConnectGUI.py) | [Le Code en Français 🇫🇷](FR%20🇨🇵/MagasinConnectGUI_fr.py) |
+|-|-|
 ---
 
 ## 🙋‍♂️ Auteur - 
