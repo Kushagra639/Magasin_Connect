@@ -47,7 +47,7 @@ CREATE DATABASE magasin_connect;
 ```
 
 ### Make changes in the code
-**Update** your MySQL *username* and *password* in the MagasinConnectGUI.py file
+- **Update** your MySQL *username* and *password* in the MagasinConnectGUI.py file
 ```Python
 MagasinConnect = SQL.connect(
     host="localhost",
@@ -56,7 +56,7 @@ MagasinConnect = SQL.connect(
     database="magasin_connect"
 )
 ```
-**Update** the theme's path in MagasinConnectGUI.py file to the path in your system
+- **Update** the theme's path in MagasinConnectGUI.py file to the path in your system
 ```Python
 ctk.set_appearance_mode("system") # Sets the appearance mode to system default (light or dark based on system settings)
 ctk.set_default_color_theme("C:/Users/username/Desktop/pastel_theme.json") # Sets the default color theme to a custom pastel theme (given alongside this code), please change the path to the theme file as per your system
