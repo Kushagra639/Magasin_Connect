@@ -30,7 +30,7 @@
 | `tkinter.messagebox` | Pop-up messages for errors/info                   |
 
 ---
-## Setup
+## ⚙️ Setup
 ### Install dependencies
 Make sure to install the dependencies by running the following code in *powershell* :
 ```bash
