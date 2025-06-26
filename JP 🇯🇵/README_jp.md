@@ -70,8 +70,11 @@ python MagasinConnectGUI.py
 
 ## 👨🏻‍💻 コード
 上記の変更を行った後、コードをコピーして **「VS Code」** または **「Python IDLE」** に貼り付け、実行するだけです。
-| [Code in English 🇬🇧](/MagasinConnectGUI.py) | [Le Code en Français 🇫🇷](FR%20🇨🇵/MagasinConnectGUI_fr.py) |
+| [Code in English](/MagasinConnectGUI.py) 🇬🇧 | [Le Code en Français](FR%20🇨🇵/MagasinConnectGUI_fr.py) 🇫🇷 |
 |-|-|
+
+[テーマファイル](/pastel_theme.json) 🎨
+
 ---
 
 ## 🙋‍♂️ 作者 - 
