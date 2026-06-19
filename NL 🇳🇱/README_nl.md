@@ -87,11 +87,11 @@ Dit project is ontworpen met een passie voor computerwetenschappen en de toepass
 
 ---
 
-📄 Licentie:
+## 📜 Licentie
 
-Dit project is open voor educatief gebruik.
+Dit project valt onder de MIT-licentie.
 
-Voor ander gebruik kunt u contact opnemen met de auteur.
+Zie het bestand LICENSE voor meer informatie.
 
 ---
 
