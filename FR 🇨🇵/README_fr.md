@@ -1,5 +1,6 @@
 | [English 🇬🇧](/README.md) | [Español 🇪🇸](/ES%20🇪🇸/README_es.md) | [Italiano 🇮🇹](/IT%20🇮🇹/README_it.md) | [Deutsch 🇩🇪](/DE%20🇩🇪/README_de.md) | [Nederlands 🇳🇱](/NL%20🇳🇱/README_nl.md) | [Русский 🇷🇺](/RU%20🇷🇺/README_ru.md) | [日本語 🇯🇵](/JP%20🇯🇵/README_jp.md) |
 |-|-|-|-|-|-|-| 
+
 # 🛍️ Magasin Connect
 
 **Magasin Connect** est un **système de gestion de magasin** basé sur Python, doté d'une interface utilisateur graphique élégante et moderne, développée avec `CustomTkinter`. Il permet aux commerçants de gérer leurs stocks, d'enregistrer leurs transactions d'achat et de vente, et de suivre leurs profits, tout en stockant leurs données de manière sécurisée dans une base de données MySQL.
@@ -87,11 +88,11 @@ Ce projet a été conçu avec passion pour l'informatique et ses applications co
 
 ---
 
-📄 Licence :
+## 📜 Licence
 
-Ce projet est ouvert à un usage éducatif.
+Ce projet est sous licence MIT.
 
-Pour toute autre utilisation, veuillez contacter l'auteur.
+Consultez le fichier LICENSE pour plus de détails.
 
 ---
 
