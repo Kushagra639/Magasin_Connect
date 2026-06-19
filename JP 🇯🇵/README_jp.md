@@ -1,5 +1,6 @@
-| [Français 🇫🇷](/FR%20🇨🇵/README_fr.md) | [Español 🇪🇸](/ES%20🇪🇸/README_es.md) | [Italiano 🇮🇹](/IT%20🇮🇹/README_it.md) | [Deutsch 🇩🇪](/DE%20🇩🇪/README_de.md) | [Nederlands 🇳🇱](/NL%20🇳🇱/README_nl.md) | [Русский 🇷🇺](/RU%20🇷🇺/README_ru.md) | [English 🇬🇧](/README.md) |
+| [Français 🇫🇷](/FR%20🇨🇵/README_fr.md) | [Español 🇪🇸](/ES%20🇪🇸/README_es.md) | [Italiano 🇮🇹](/IT%20🇮🇹/README_it.md) | [Português 🇵🇹](/PT%20🇵🇹/README_pt.md) | [Deutsch 🇩🇪](/DE%20🇩🇪/README_de.md) | [Nederlands 🇳🇱](/NL%20🇳🇱/README_nl.md) | [Русский 🇷🇺](/RU%20🇷🇺/README_ru.md) | [English 🇬🇧](/README.md) |
 |-|-|-|-|-|-|-| 
+
 # 🛍️ Magasin Connect
 
 **Magasin Connect** は、`CustomTkinter` で開発された、洗練されたモダンなグラフィカルユーザーインターフェースを備えた Python ベースの **店舗管理システム** です。店舗は在庫管理、売買取引の記録、利益の追跡が可能で、データは MySQL データベースに安全に保存されます。
@@ -97,7 +98,7 @@ Kushagra Aggarwal (クシャグラ・アガーワル)
 
 📌 注意事項:
 
-- ⚠️ ショップの名前を「shops」にしないでください（予約済みのテーブルです）。
+- ⚠️ ショップの名前を **「shops」** にしないでください（予約済みのテーブルです）。
 - 🎨 システムによっては、コード内のテーマパスを更新する必要がある場合があります。
 
 ---
