@@ -1,5 +1,6 @@
-| [Français 🇫🇷](/FR%20🇨🇵/README_fr.md) | [Español 🇪🇸](/ES%20🇪🇸/README_es.md) | [Italiano 🇮🇹](/IT%20🇮🇹/README_it.md) | [Deutsch 🇩🇪](/DE%20🇩🇪/README_de.md) | [Nederlands 🇳🇱](/NL%20🇳🇱/README_nl.md) | [Русский 🇷🇺](/RU%20🇷🇺/README_ru.md) | [日本語 🇯🇵](/JP%20🇯🇵/README_jp.md) |
+| [Français 🇫🇷](/FR%20🇨🇵/README_fr.md) | [Español 🇪🇸](/ES%20🇪🇸/README_es.md) | [Italiano 🇮🇹](/IT%20🇮🇹/README_it.md) | [Português 🇵🇹](/PT%20🇵🇹/README_pt.md) | [Deutsch 🇩🇪](/DE%20🇩🇪/README_de.md) | [Nederlands 🇳🇱](/NL%20🇳🇱/README_nl.md) | [Русский 🇷🇺](/RU%20🇷🇺/README_ru.md) | [日本語 🇯🇵](/JP%20🇯🇵/README_jp.md) |
 |-|-|-|-|-|-|-| 
+
 # 🛍️ Magasin Connect
 
 **Magasin Connect** is a Python-based **shop management system** with a beautiful, modern GUI built using `CustomTkinter`. It allows shopkeepers to manage their inventory, log purchase and sale transactions, and track profits—all while storing data securely in a MySQL database.
@@ -69,7 +70,7 @@ python MagasinConnectGUI.py
 ---
 
 ## 👨🏻‍💻 Code
-Just *Copy* and *Paste* the code in **"VS Code"** or **"Python IDLE"** and run it after making the above changes.
+*Copy* and *Paste* the code in **"VS Code"** or **"Python IDLE"** and run it after making the above changes.
 
 | [Code in English](/MagasinConnectGUI.py) 🇬🇧 | [Le Code en Français](FR%20🇨🇵/MagasinConnectGUI_fr.py) 🇫🇷 |
 |-|-|
@@ -121,7 +122,7 @@ See the LICENSE file for details.
 
 📌 Notes :
 
-- ⚠️ Do not name your shop shops (it's a reserved table).
+- ⚠️ Do not name your shop **"shops"** (it's a reserved table).
 - 🎨 Theme path in the code may need to be updated depending on your system.
 
 ---
