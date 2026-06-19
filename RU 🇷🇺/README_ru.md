@@ -1,5 +1,6 @@
-| [Français 🇫🇷](/FR%20🇨🇵/README_fr.md) | [Español 🇪🇸](/ES%20🇪🇸/README_es.md) | [Italiano 🇮🇹](/IT%20🇮🇹/README_it.md) | [Deutsch 🇩🇪](/DE%20🇩🇪/README_de.md) | [Nederlands 🇳🇱](/NL%20🇳🇱/README_nl.md) | [English 🇬🇧](/README.md) | [日本語 🇯🇵](/JP%20🇯🇵/README_jp.md) |
-|-|-|-|-|-|-|-| 
+| [Français 🇫🇷](/FR%20🇨🇵/README_fr.md) | [Español 🇪🇸](/ES%20🇪🇸/README_es.md) | [Italiano 🇮🇹](/IT%20🇮🇹/README_it.md) | [Português 🇵🇹](/PT%20🇵🇹/README_pt.md) | [Deutsch 🇩🇪](/DE%20🇩🇪/README_de.md) | [Nederlands 🇳🇱](/NL%20🇳🇱/README_nl.md) | [English 🇬🇧](/README.md) | [日本語 🇯🇵](/JP%20🇯🇵/README_jp.md) |
+|-|-|-|-|-|-|-|-| 
+
 # 🛍️ Magasin Connect
 
 **Magasin Connect** — это **система управления магазином** на основе Python с элегантным и современным графическим пользовательским интерфейсом, разработанная с помощью `CustomTkinter`. Она позволяет торговцам управлять своими запасами, регистрировать свои транзакции купли-продажи и отслеживать прибыль, при этом надежно сохраняя свои данные в базе данных MySQL.
@@ -97,7 +98,7 @@ Kushagra Aggarwal (Кушагра Аггарвал)
 
 📌 Примечания:
 
-- ⚠️ Не называйте свой магазин «shops» (это зарезервированная таблица).
+- ⚠️ Не называйте свой магазин **«shops»** (это зарезервированная таблица).
 - 🎨 Путь к теме в коде может потребоваться обновить в зависимости от вашей системы.
 
 ---
