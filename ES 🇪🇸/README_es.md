@@ -1,5 +1,5 @@
-| [Français 🇫🇷](/FR%20🇨🇵/README_fr.md) | [English 🇬🇧](/README.md) | [Italiano 🇮🇹](/IT%20🇮🇹/README_it.md) | [Deutsch 🇩🇪](/DE%20🇩🇪/README_de.md) | [Nederlands 🇳🇱](/NL%20🇳🇱/README_nl.md) | [Русский 🇷🇺](/RU%20🇷🇺/README_ru.md) | [日本語 🇯🇵](/JP%20🇯🇵/README_jp.md) |
-|-|-|-|-|-|-|-| 
+| [Français 🇫🇷](/FR%20🇨🇵/README_fr.md) | [English 🇬🇧](/README.md) | [Italiano 🇮🇹](/IT%20🇮🇹/README_it.md) | [Português 🇵🇹](/PT%20🇵🇹/REAME_pt.md) | [Deutsch 🇩🇪](/DE%20🇩🇪/README_de.md) | [Nederlands 🇳🇱](/NL%20🇳🇱/README_nl.md) | [Русский 🇷🇺](/RU%20🇷🇺/README_ru.md) | [日本語 🇯🇵](/JP%20🇯🇵/README_jp.md) |
+|-|-|-|-|-|-|-|-| 
 
 # 🛍️ Magasin Connect
 
@@ -69,7 +69,7 @@ python MagasinConnectGUI.py
 ---
 
 ## 👨🏻‍💻 Código
-Simplemente *Copia* y *Pega* el código en **"VS Code"** o **"Python IDLE"** y ejecútalo después de realizar los cambios anteriores.
+*Copia* y *Pega* el código en **"VS Code"** o **"Python IDLE"** y ejecútalo después de realizar los cambios anteriores.
 | [Code in English](/MagasinConnectGUI.py) 🇬🇧 | [Le Code en Français](FR%20🇨🇵/MagasinConnectGUI_fr.py) 🇫🇷 |
 |-|-|
 
@@ -98,7 +98,7 @@ Consulta el archivo LICENSE para obtener más detalles.
 
 📌 Notas:
 
-- ⚠️ No nombre su tienda "shops" (es una tabla reservada).
+- ⚠️ No nombre su tienda **"shops"** (es una tabla reservada).
 - 🎨 La ruta del tema en el código podría necesitar actualizarse según su sistema.
 
 ---
