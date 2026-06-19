@@ -111,11 +111,11 @@ This project was built with passion for Computer Science and real-world applicat
 
 ---
 
-📄 License :
+## 📜 License
 
-This project is open for educational use.
+This project is licensed under the MIT License.
 
-For other uses, please contact the author.
+See the LICENSE file for details.
 
 ---
 
