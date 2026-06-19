@@ -1,5 +1,6 @@
-| [Français 🇫🇷](/FR%20🇨🇵/README_fr.md) | [Español 🇪🇸](/ES%20🇪🇸/README_es.md) | [Italiano 🇮🇹](/IT%20🇮🇹/README_it.md) | [Deutsch 🇩🇪](/DE%20🇩🇪/README_de.md) | [English 🇬🇧](/README.md) | [Русский 🇷🇺](/RU%20🇷🇺/README_ru.md) | [日本語 🇯🇵](/JP%20🇯🇵/README_jp.md) |
-|-|-|-|-|-|-|-| 
+| [Français 🇫🇷](/FR%20🇨🇵/README_fr.md) | [Español 🇪🇸](/ES%20🇪🇸/README_es.md) | [Italiano 🇮🇹](/IT%20🇮🇹/README_it.md) | [Português 🇵🇹](/PT%20🇵🇹/README_pt.md) | [Deutsch 🇩🇪](/DE%20🇩🇪/README_de.md) | [English 🇬🇧](/README.md) | [Русский 🇷🇺](/RU%20🇷🇺/README_ru.md) | [日本語 🇯🇵](/JP%20🇯🇵/README_jp.md) |
+|-|-|-|-|-|-|-|-| 
+
 # 🛍️ Magasin Connect
 
 **Magasin Connect** is een Python-gebaseerd **winkelbeheersysteem** met een strakke en moderne grafische gebruikersinterface, ontwikkeld met `CustomTkinter`. Het stelt winkeliers in staat hun voorraad te beheren, hun aan- en verkooptransacties te registreren en hun winst bij te houden, terwijl hun gegevens veilig worden opgeslagen in een MySQL-database.
@@ -97,7 +98,7 @@ Zie het bestand LICENSE voor meer informatie.
 
 📌 Opmerkingen:
 
-- ⚠️ Noem uw winkel niet "shops" (het is een gereserveerde tafel).
+- ⚠️ Noem uw winkel niet **"shops"** (het is een gereserveerde tafel).
 - 🎨 Het themapad in de code moet mogelijk worden bijgewerkt, afhankelijk van uw systeem.
 
 ---
