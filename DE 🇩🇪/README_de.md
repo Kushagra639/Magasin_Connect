@@ -1,4 +1,4 @@
-| [Français 🇫🇷](/FR%20🇨🇵/README_fr.md) | [Español 🇪🇸](/ES%20🇪🇸/README_es.md) | [Italiano 🇮🇹](/IT%20🇮🇹/README_it.md) | [English 🇬🇧](/README.md) | [Nederlands 🇳🇱](/NL%20🇳🇱/README_nl.md) | [Русский 🇷🇺](/RU%20🇷🇺/README_ru.md) | [日本語 🇯🇵](/JP%20🇯🇵/README_jp.md) |
+| [Français 🇫🇷](/FR%20🇨🇵/README_fr.md) | [Español 🇪🇸](/ES%20🇪🇸/README_es.md) | [Italiano 🇮🇹](/IT%20🇮🇹/README_it.md) | [Português 🇵🇹](/PT%20🇵🇹/README_pt.md) | [English 🇬🇧](/README.md) | [Nederlands 🇳🇱](/NL%20🇳🇱/README_nl.md) | [Русский 🇷🇺](/RU%20🇷🇺/README_ru.md) | [日本語 🇯🇵](/JP%20🇯🇵/README_jp.md) |
 |-|-|-|-|-|-|-| 
 
 # 🛍️ Magasin Connect
@@ -98,7 +98,7 @@ Einzelheiten sind der Datei LICENSE zu entnehmen.
 
 📌 Hinweise:
 
-- ⚠️ Nennen Sie Ihren Shop nicht „shops“ (es handelt sich um einen reservierten Tisch).
+- ⚠️ Nennen Sie Ihren Shop nicht **„shops“** (es handelt sich um einen reservierten Tisch).
 - 🎨 Der Themenpfad im Code muss je nach System möglicherweise aktualisiert werden.
 
 ---
