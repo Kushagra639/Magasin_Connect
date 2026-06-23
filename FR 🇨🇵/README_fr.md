@@ -79,10 +79,34 @@ python MagasinConnectGUI_fr.py
 ---
 
 ## 🙋‍♂️ Auteur - 
+
 Kushagra Aggarwal
-- Élève, classe de Terminale
-- Dr. B. R. Ambedkar SoSE, Plot no. 1, Link Road, Karol Bagh
-- Delhi Board of School Education (DBSE)
+
+- Passionné de cybersécurité
+- Étudiant en informatique
+- Ancien élève, Dr. B.R. Ambedkar SoSE, Karol Bagh
+
+<p style="margin: 0; padding: 0;">
+  <span style="font-weight: bold; font-size: 1.1em;">Suivez-moi sur :</span>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/kushagraaggarwal639/"
+     target="_blank"
+     style="display: inline-flex; align-items: center; vertical-align: middle; text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/Kushagra639/Magasin_Connect/main/LinkedIn%20Logo.png"
+         alt="LinkedIn"
+         width="20"
+         style="display: block;">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/kushagraaggarwal639/"
+     target="_blank"
+     style="display: inline-flex; align-items: center; vertical-align: middle; text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/Kushagra639/Magasin_Connect/main/Instagram_logo.png"
+         alt="Instagram"
+         width="20"
+         style="display: block;">
+  </a>
+</p>
 
 Ce projet a été conçu avec passion pour l'informatique et ses applications concrètes.
 
