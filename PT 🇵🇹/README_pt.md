@@ -80,8 +80,15 @@ Copie e cole o código no **VS Code** ou no **Python IDLE** e execute-o após ef
 ---
 
 ## 🙋‍♂️ Autor -  
+
+Kushagra Aggarwal
+
+- Entusiasta de cibersegurança
+- Estudante de Ciência da Computação
+- Antigo aluno da Dr. B.R. Ambedkar SoSE, Karol Bagh
+
 <p style="margin: 0; padding: 0;">
-  <span style="font-weight: bold; font-size: 1.1em;">Kushagra Aggarwal</span>
+  <span style="font-weight: bold; font-size: 1.1em;">Siga-me em: </span>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/kushagraaggarwal639/"
      target="_blank"
@@ -101,12 +108,6 @@ Copie e cole o código no **VS Code** ou no **Python IDLE** e execute-o após ef
          style="display: block;">
   </a>
 </p>
-
-
-
-- Aluno(a), 12º ano
-- Dr. B.R. Ambedkar SoSE, Plot No. 1, Link Road, Karol Bagh
-- Delhi Board of School Education (DBSE)
 
 Este projeto foi desenvolvido com paixão pela Ciência da Computação e por aplicações no mundo real.
 
