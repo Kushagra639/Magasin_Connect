@@ -87,7 +87,7 @@ Kushagra Aggarwal (Кушагра Аггарвал)
 - Выпускник Dr. B.R. Ambedkar SoSE, Karol Bagh
 
 <p style="margin: 0; padding: 0;">
-  <span style="font-weight: bold; font-size: 1.1em;">Follow me on: </span>
+  <span style="font-weight: bold; font-size: 1.1em;">Подписывайтесь на меня: </span>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/kushagraaggarwal639/"
      target="_blank"
