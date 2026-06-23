@@ -80,8 +80,15 @@ python MagasinConnectGUI.py
 ---
 
 ## 🙋‍♂️ Author -  
+
+Kushagra Aggarwal
+
+- Cyber Security Enthusiast
+- Computer Science Student
+- Alumnus, Dr. B.R. Ambedkar SoSE, Karol Bagh
+
 <p style="margin: 0; padding: 0;">
-  <span style="font-weight: bold; font-size: 1.1em;">Kushagra Aggarwal</span>
+  <span style="font-weight: bold; font-size: 1.1em;">Follow me on: </span>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/kushagraaggarwal639/"
      target="_blank"
@@ -101,12 +108,6 @@ python MagasinConnectGUI.py
          style="display: block;">
   </a>
 </p>
-
-
-
-- Student, Class 12
-- Dr. B. R. Ambedkar SoSE, Plot No. 1, Link Road, Karol Bagh
-- Delhi Board of School Education (DBSE)
 
 This project was built with passion for Computer Science and real-world application.
 
